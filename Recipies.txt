@@ -1,0 +1,14 @@
+Hi,
+
+This is my first sample intorductory exercise with GIT.
+
+Adding Some stuff/topics which I like the most.
+
+Python.
+Data visualization.
+Cooking.
+Tableau.
+
+
+Done:)
+Thanks
